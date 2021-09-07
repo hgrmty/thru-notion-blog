@@ -1,6 +1,6 @@
 module.exports = {
   // Basic site information (required)
-  name: 'thru',
+  name: 'thru words',
   domain: 'inithru.id',
   url: 'https://blog.inithru.id',
   description: 'thru blog',
