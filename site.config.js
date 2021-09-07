@@ -1,14 +1,14 @@
 module.exports = {
   // Basic site information (required)
-  name: 'twan.dev',
-  domain: 'twan.dev',
-  url: 'https://twan.dev',
-  description: 'Twan Kruiswijk personal blog about life, music, code and more.',
-  fathomCode: 'TBSAIDMS',
+  name: 'thru',
+  domain: 'inithru.id',
+  url: 'https://blog.inithru.id',
+  description: 'thru blog',
+  fathomCode: ' ',
 
   // SEO specific (optional)
   defaultSocialImage:
-    'https://res.cloudinary.com/twankruiswijk/image/upload/v1624446915/twan-dev-social_zzbzzv.jpg',
+    ' ',
 
   /* 
     Social media URLS (optional)
@@ -25,17 +25,17 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/twankrui',
+      url: 'https://twitter.com/hgrmty',
       icon: 'SiTwitter',
     },
     {
       name: 'Instagram',
-      url: 'https://instagram.com/twankrui',
+      url: ' ',
       icon: 'SiInstagram',
     },
     {
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/twan-kruiswijk-bb853a71/',
+      url: ' ',
       icon: 'SiLinkedin',
     },
     {
@@ -55,7 +55,7 @@ module.exports = {
     },
     {
       name: 'Twitch',
-      url: 'https://twitch.tv/twankrui',
+      url: ' ',
       icon: 'SiTwitch',
     },
   ],
